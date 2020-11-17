@@ -1,0 +1,20 @@
+{
+ "type":"record",
+ "namespace":"com.java.avro",
+ "name":"TrafficStatistic",
+ "version":"1",
+ "fields":[
+     { "name": "allTraffic", "type": "long", "default": 0, "doc": "allTraffic" },
+     { "name": "adr", "type": "long", "default": 0, "doc": "adr" },
+     { "name": "notAdr", "type": "long", "default": 0, "doc": "notAdr" },
+     { "name": "largeTruck", "type": "long", "default": 0, "doc": "largeTruck" },
+     { "name": "smallTruck", "type": "long", "default": 0, "doc": "smallTruck" },
+     { "name": "bus", "type": "long", "default": 0, "doc": "bus" },
+     { "name": "taxi","type": "long", "default": 0, "doc": "taxi" },
+     { "name": "privateCar", "type": "long","default": 0, "doc": "privateCar" },
+     { "name": "route37", "type": "long", "default": 0, "doc": "route37" },
+     { "name": "route43", "type": "long", "default": 0, "doc": "route43" },
+     { "name": "route82", "type": "long", "default": 0, "doc": "route82" }
+
+   ]
+}

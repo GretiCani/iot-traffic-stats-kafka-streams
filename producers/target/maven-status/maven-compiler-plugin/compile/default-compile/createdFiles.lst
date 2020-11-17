@@ -1,0 +1,4 @@
+com/java/avro/IotData$Builder.class
+com/producer/DataProducer.class
+com/java/avro/IotData.class
+com/producer/util/PropertyReader.class

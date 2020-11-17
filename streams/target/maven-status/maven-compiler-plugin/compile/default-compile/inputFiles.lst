@@ -1,0 +1,4 @@
+/home/move/Desktop/keycloak/iot-traffic-stats-kafka-streams/streams/src/main/java/com/streams/StreamApplication.java
+/home/move/Desktop/keycloak/iot-traffic-stats-kafka-streams/streams/target/generated-sources/com/java/avro/TrafficStatistic.java
+/home/move/Desktop/keycloak/iot-traffic-stats-kafka-streams/streams/target/generated-sources/com/java/avro/IotData.java
+/home/move/Desktop/keycloak/iot-traffic-stats-kafka-streams/streams/src/main/java/com/streams/IotDataTimestampExtractor.java

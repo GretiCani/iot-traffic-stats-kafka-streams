@@ -1,0 +1,6 @@
+com/java/avro/IotData$Builder.class
+com/java/avro/TrafficStatistic.class
+com/java/avro/IotData.class
+com/java/avro/TrafficStatistic$Builder.class
+com/streams/IotDataTimestampExtractor.class
+com/streams/StreamApplication.class

@@ -1,0 +1,19 @@
+{
+ "type":"record",
+ "namespace":"com.java.avro",
+ "name":"IotData",
+ "version":"1",
+ "fields":[
+       { "name": "vehicleId", "type": "string", "doc": "vehicleId" },
+       { "name": "vehicleType", "type": "string", "doc": "vehicleType" },
+       { "name": "plate", "type": "string", "doc": "plate" },
+       { "name": "routeId", "type": "string", "doc": "routeId" },
+       { "name": "longitude", "type": "string", "doc": "longitude" },
+       { "name": "latitude", "type": "string", "doc": "latitude" },
+       { "name": "timestamp","type": "long", "logicalType": "timestamp-millis", "doc": "timestamp" },
+       { "name": "speed", "type": "double", "doc": "speed" },
+       { "name": "adr", "type": "boolean", "doc": "adr" },
+       { "name": "portal", "type": "string", "doc": "portal" }
+
+ ]
+}
